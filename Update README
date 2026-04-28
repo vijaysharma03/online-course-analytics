@@ -1,0 +1,50 @@
+# 📊 Online Course Analytics Dashboard
+
+## 🔹 Project Overview
+
+This project analyzes an online learning platform dataset to understand course performance, user behavior, and revenue trends.
+
+---
+
+## 🔧 Tools Used
+
+* Excel (Data Analysis)
+* Python (Pandas for Data Processing)
+* Power BI (Dashboard)
+
+---
+
+## 📈 Key Features
+
+* Data cleaning and merging using Python
+* Feature engineering (Price Band, Duration Band, Rating Band)
+* Interactive Power BI dashboard
+* KPI metrics and dynamic filters
+
+---
+
+## 📊 Dashboard Insights
+
+* Medium-priced courses generate the highest revenue
+* Free courses drive user engagement
+* Medium-duration courses perform best
+
+---
+
+## 📸 Dashboard Preview
+
+(Add your dashboard screenshot here)
+
+---
+
+## 🚀 How to Use
+
+1. Open the Power BI file (.pbix)
+2. Use slicers to filter data
+3. Explore revenue trends
+
+---
+
+## 📌 Author
+
+Vijay Sharma
